@@ -1,0 +1,6 @@
+To learn PHP5, we will be following tutorials from:
+http://www.w3schools.com/php/
+https://www.codecademy.com/learn/php
+
+As we learn from these tutorials, we will add more spikes about
+PHP if they pertain to our final project.
