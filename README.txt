@@ -1,5 +1,5 @@
-Top of the directory hierachy for the project...
-Documentation folder includes explanations of programming standards of Laravel and PhP used for the project.
-Spikes include tutorials for using PhP and Laravel and individual practice that may be important to
-the overall project.  
-Source includes source files for the overall project.
+Project Directory Structure:
+1. Documentation:  Coding standards for PHP, Larval Framework, Spikes, Stories, and TPS reports. 
+2. Source Folder
+3. Spikes Folder
+4. Database Folder
