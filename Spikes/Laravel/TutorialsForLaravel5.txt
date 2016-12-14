@@ -1,0 +1,9 @@
+To learn Laravel, we will be following tutorials from:
+http://dev.tutorialspoint.com/laravel/index.htm
+
+and for specifically Laravel 5
+
+http://www.tutorials.kode-blog.com/laravel-5-tutorial
+
+As we learn from these tutorials, we will add more spikes about
+Laravel if they pertain to our final project.
