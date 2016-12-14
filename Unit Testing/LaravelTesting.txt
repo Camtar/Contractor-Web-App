@@ -1,0 +1,3 @@
+// This link explains the testing environment in Laravel 5.2.
+
+https://laravel.com/docs/5.2/testing
