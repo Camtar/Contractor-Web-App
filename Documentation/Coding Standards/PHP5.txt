@@ -1,0 +1,3 @@
+// This website neatly lays out the coding standards for PHP5 along with PHP practice and naming convention
+
+http://www.realdealmarketing.net/docs/php-coding-standards.php
