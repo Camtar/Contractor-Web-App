@@ -1,6 +1,6 @@
 // This website neatly lays out the coding standards for PHP5 along with PHP practice and naming convention
 // We will be using psr as our coding standards and how we will write PHP code.
-
+// Laravel 5 also uses the psr 2 and psr 4 standards, which we will also be following.
 http://www.php-fig.org/psr/
 http://www.php-fig.org/psr/psr-1/
 http://www.php-fig.org/psr/psr-2/
