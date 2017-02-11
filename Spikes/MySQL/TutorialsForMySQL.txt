@@ -1,8 +1,0 @@
-To learn MySQL, we will be following tutorials from:
-https://www.tutorialspoint.com/mysql/
-
-and general SQL if needed from:
-http://www.w3schools.com/sql/
-
-As we learn from these tutorials, we will add more spikes about
-MySQL if they pertain to our final project.
