@@ -1,1 +1,1 @@
-Contains the link for Coding standard for PHP5.
+Contains the links for Coding standard for Java and AngularJS.

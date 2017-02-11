@@ -12,3 +12,5 @@ git commit -m "Commit message"    ...   Used to commit to repository
 git push origin master 		... Push to repository and update.
 
 git pull 			... pull new changes...
+
+If not using Linux, will be using the desktop app provided by GitHub.

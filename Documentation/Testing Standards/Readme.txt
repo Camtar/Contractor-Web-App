@@ -1,1 +1,1 @@
-Unit Testing in Laravel framework
+Testing tutorials and standards for AngularJS framework and Google App Engine.
